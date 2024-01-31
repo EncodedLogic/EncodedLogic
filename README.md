@@ -21,6 +21,7 @@
 
 ⭐️ From [AnandhuSathyaseelan](https://github.com/EncodedLogic)
 
+### My Programming Languages Arsenal :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EncodedLogic&langs_count=8&theme=dark)
 
