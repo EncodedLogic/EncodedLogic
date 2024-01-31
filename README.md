@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Anandhu Sathyaseelan
-- An Web development, App development and blockchain enthusiast.
+- An Web development, Android development and blockchain enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Blockchain.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
