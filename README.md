@@ -13,11 +13,13 @@
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Anandhu Sathyaseelan
-- An Web development, Android development and blockchain enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Blockchain.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### Hey there! I’m Anandhu Sathyaseelan
+- 🚀 Web Development Enthusiast | Blockchain Explorer | Crafting Solutions, One Algorithm at a Time
+- 🎓 Computer Engineering Graduate | Associate Software Engineer @ Accenture
+- 🌱 Currently Learning: Advanced CSS, React.js, Kubernetes, System Design, and AWS
+- 🛠️ Building: Cool side projects integrating Web Development with Blockchain and real-world applications
+- 💬 Let’s Talk About: Coding, Finance, Hacking, Networking
+- 🤝 Looking for: Exciting opportunities to grow, collaborate, and make impactful contributions
 
 ⭐️ From [AnandhuSathyaseelan](https://github.com/EncodedLogic)
 
