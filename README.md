@@ -14,12 +14,12 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### Hey there! I’m Anandhu Sathyaseelan
-- 🚀 Web Development Enthusiast | Blockchain Explorer | Crafting Solutions, One Algorithm at a Time
-- 🎓 Computer Engineering Graduate | Associate Software Engineer @ Accenture
-- 🌱 Currently Learning: Advanced CSS, React.js, Kubernetes, System Design, and AWS
-- 🛠️ Building: Cool side projects integrating Web Development with Blockchain and real-world applications
-- 💬 Let’s Talk About: Coding, Finance, Hacking, Networking
-- 🤝 Looking for: Exciting opportunities to grow, collaborate, and make impactful contributions
+- Web Development Enthusiast | Blockchain Explorer | Crafting Solutions, One Algorithm at a Time
+- Computer Engineering Graduate | Associate Software Engineer @ Accenture
+- Currently Learning: Advanced CSS, React.js, Kubernetes, System Design, and AWS
+- Building: Cool side projects integrating Web Development with Blockchain and real-world applications
+- Let’s Talk About: Coding, Finance, Hacking, Networking
+- Looking for: Exciting opportunities to grow, collaborate, and make impactful contributions
 
 ⭐️ From [AnandhuSathyaseelan](https://github.com/EncodedLogic)
 
